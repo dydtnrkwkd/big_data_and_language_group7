@@ -8,9 +8,11 @@ The final project of big data and language course at KAIST done by Group 7
 > in "java codes" folder
 
 * __Data.java__
+
   It defines data class.
   
 * __HPWords.java__
+
   It concatenates all antconc files to one file and assign a change type to pick the peak words.
 
 ### Excel files
