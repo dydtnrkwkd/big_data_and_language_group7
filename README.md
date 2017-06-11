@@ -17,7 +17,7 @@ The final project of big data and language course at KAIST done by Group 7
 
 ### Excel files
 
-  All files contain words for each POS. All the words are arranged in order of change.
+  All (pos).xlsx files contain words for each POS. All the words are arranged in order of change.
 
   Only the words used more than 20 times were used.
 
