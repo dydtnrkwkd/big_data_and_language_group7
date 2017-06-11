@@ -6,6 +6,7 @@ The final project of big data and language course at KAIST done by Group 7
 
 ### java codes
 > in "java codes" folder
+
   All the paths code in each file must be adjusted for user.
 
 * __Data.java__
